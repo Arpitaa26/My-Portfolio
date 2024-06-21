@@ -1,0 +1,304 @@
+@media only screen and (max-width: 375px) and (min-width: 346px) {
+}
+
+@media only screen and (max-width: 544px) and (min-width: 375px) {
+}
+
+@media only screen and (max-width: 555px) and (min-width: 376px) {
+}
+
+@media only screen and (max-width: 768px) and (min-width: 544px) {
+}
+
+@media only screen and (max-width: 1222px) and (min-width: 999px) {
+}
+
+@media only screen and (max-width: 1358px) and (min-width: 1202px) {
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 993px) {
+}
+
+@media only screen and (max-width: 991px) and (min-width: 300px) {
+    .text-line {
+    font-size: 70px;
+}
+    .about-me {
+    padding-left: 0;
+}
+.menu-area {
+    display: none;
+}
+.about-section {
+    margin-top: 60px;
+}
+.inner-profile-information{
+    text-align: center;
+}
+.about-content>h3 {
+    font-size: 22px;
+}
+.inner_area {
+    padding: 45px 20px;
+}
+.title-sloghan>h3 {
+    font-size: 22px;
+}
+.info-content {
+    padding-left: 20px;
+}
+.skill-box {
+    margin-bottom: 30px;
+}
+.solution {
+    margin-top: 60px;
+}
+.service-card {
+    margin-bottom: 30px;
+}
+.portfolio-container {
+    margin-top: 60px;
+}
+.controls>button {
+    margin: 0px 8px;
+}
+.about-me {
+    margin-top: 35px;
+}
+.field-data {
+    font-size: 16px;
+}
+.myskill {
+    margin-top: 60px;
+}
+.controls>button {
+    font-size: 14px;
+    padding: 13px 18px;
+    margin-bottom: 15px !important;
+}
+.rating {
+    width: 100%;
+}
+span.date {
+    font-size: 13px;
+}
+.card-description>p.discription {
+    margin-top: 32px;
+    font-size: 15px;
+}
+.info-content>p {
+    font-size: 14px;
+    font-weight: 300;
+}
+.card-info {
+    margin-right: 0px;
+}
+.card-description {
+    padding: 50px 25px 50px 25px;
+}
+.rating {
+    padding: 14px 15px 14px 15px;
+}
+.category-list>a {
+    font-size: 14px;
+}
+a.readmore-btn {
+    font-size: 14px;
+}
+h4.title>a {
+    font-size: 20px;
+}
+.contact-about-area .title-area h4.title {
+    font-size: 24px;
+    line-height: 26px;
+}
+..contact-about-area .description p {
+    font-size: 16px;
+    line-height: unset;
+    margin-bottom: 10px;
+}
+span>a {
+    font-size: 16px;
+    margin-left: 5px;
+}
+.contact-about-area .description {
+    margin-bottom: 20px;
+}
+.contact-form-wrapper {
+    padding: 40px 25px;
+    margin-left: 0px;
+    margin-top: 45px;
+}
+.contact-about-area .social-area .social-icone a {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+}
+.contact-form-wrapper textarea {
+    height: 150px;
+    min-height: 150px;
+}
+.footer-area-full {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.footer-area .description {
+    font-size: 14px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+.contact-container {
+    margin-top: 60px;
+}
+.portfolio-col {
+    margin-bottom: 30px;
+}
+.container.blog-container {
+    margin-top: 60px;
+}
+.rating {
+    display: none;
+}
+.card-description::after {
+
+    width: 70px;
+    height: 70px;
+    top: -86px;
+}
+.card-description {
+    margin-top: 100px;
+}
+.container.testimonial {
+    margin-top: 60px;
+}
+.mix {
+    margin-bottom: 35px;
+}
+.filter-container {
+    margin-top: 35px;
+}
+.row.portfolio-main-container {
+    margin-top: 25px;
+}
+.popup-image>img {
+    width: 100%;
+}
+.close-popup-area>button.close-btn {
+    height: 35px;
+    width: 35px;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+.skill-ber.row {
+    margin-top: 20px;
+}
+.mobile-menu-section {
+    display: block;
+}
+.service-card {
+    padding: 35px 25px 35px 25px;
+}
+.skill-box {
+    padding: 40px 25px 40px 25px;
+}
+.skill-box>p {
+    font-size: 14px;
+    font-weight: 300;
+}
+.skill-box>h4 {
+    margin: 7px 0 15px 0;
+}
+span.skill-title {
+    font-size: 14px;
+}
+.mobile-menu-section {
+    padding: 20px 30px;
+}
+}
+
+@media only screen and (max-width: 400px) and (min-width: 300px) {
+      .text-line {
+    font-size: 60px;
+}
+    .inner-profile-information>h2 {
+    font-size: 34px;
+ 
+}
+.inner-profile-information>h4 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+.contact-about-area .description p {
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.contact-form-wrapper input {
+    height: 45px;
+}
+span.naming-label {
+    min-width: 94px;
+    width: 94px;
+}
+.footer-area .description {
+    font-size: 13px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+}
+
+@media only screen and (max-width: 826px) and (min-width: 572px) {
+}
+
+@media only screen and (max-width: 370px) and (min-width: 320px) {
+}
+
+@media only screen and (max-width: 900px) and (min-width: 370px) {
+}
+
+@media only screen and (max-width: 551px) and (min-width: 370px) {
+}
+
+@media only screen and (max-width: 999px) and (min-width: 826px) {
+}
+
+@media only screen and (max-width: 11200px) and (min-width: 1600px) {
+}
+
+@media only screen and (max-width: 999px) and (min-width: 400px) {
+}
+
+@media only screen and (max-width: 999px) and (min-width: 551px) {
+}
+
+@media only screen and (max-width: 1422px) and (min-width: 1300px) {
+}
+
+@media only screen and (max-width: 1524px) and (min-width: 1422px) {
+}
+
+@media only screen and (max-width: 1657) and (min-width: 1524px) {
+}
+
+@media only screen and (max-width: 11200px) and (min-width: 1400px) {
+}
+
+@media only screen and (max-width: 1000px) and (min-width: 700px) {
+}
+
+@media only screen and (max-width: 999px) and (min-width: 300px) {
+  
+}
+
+@media only screen and (max-width: 999px) and (min-width: 768px) {
+}
+
+@media only screen and (max-width: 4999px) and (min-width: 999px) {
+    
+}
+
+@media only screen and (max-height: 4999px) and (min-height: 990px) {
+    
+}
